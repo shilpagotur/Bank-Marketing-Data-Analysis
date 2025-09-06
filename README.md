@@ -7,9 +7,10 @@ Through **exploratory data analysis (EDA)** and visualization, the project highl
 ---
 
 ## 📂 Dataset
-- **Source**: Bank Marketing Dataset (`bank.csv`)
-- **Features**: Includes attributes such as age, job, marital status, education, balance, contact method, and outcome of previous marketing campaigns.
-- **Target**: `subscription` (whether the customer subscribed to a term deposit).
+- **File in repo**: [`bank.csv`](bank.csv) (367 KB)  
+- **Source**: [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)  
+- **Description**: Includes attributes such as age, job, marital status, education, balance, contact method, and outcome of previous marketing campaigns.  
+- **Target**: `subscription` (whether the customer subscribed to a term deposit).  
 
 ---
 
